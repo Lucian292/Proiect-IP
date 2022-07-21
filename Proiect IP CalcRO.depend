@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1641484300 source:c:\users\lucian\documents\code blocks programs\transformare cifre litere\main.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stack>
+	<bits/stdc++.h>
+	<sstream>
+
+1642054853 source:c:\users\lucian\documents\code blocks programs\proiect ip calcro\main.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stack>
+	<bits/stdc++.h>
+	<graphics.h>
+	<math.h>
+
